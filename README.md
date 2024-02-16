@@ -1,7 +1,7 @@
-<p align="center">Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Faez Bhatti </p>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Faez Bhatti
 ===================================================================================================================================
 
-<p align="center">PHP/Symfony and JS Web Developer 👨‍💻</p>
+PHP/Symfony and JS Web Developer 👨‍💻
 --------------------------------------
 
 Passionate about crafting robust web applications, I thrive as a Symfony developer, leveraging PHP and JavaScript to build tailored solutions that exceed client expectations. Embracing the challenges inherent in development, I relish the opportunity to debug code and implement innovative features that address client needs. 
@@ -15,9 +15,6 @@ Beyond my role, I'm an avid learner, constantly exploring the latest tech trends
 *   🤝  I'm open to collaborating on Symfony & Learning projects
 *   ⚡  I'll be posting videos and articles on my favorite subjects.
 
-<a href="https://www.x.com/BhattiFaez" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/twitter/follow/BhattiFaez?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/>
-</a>
 
 ### Skills
 
